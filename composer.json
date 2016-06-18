@@ -1,0 +1,11 @@
+{
+  "name": "alex-grau/GooglePDF",
+  "description": "GooglePDF to PDF",
+  "type": "library",
+  "license": "Apache-2.0",
+  "version": "0.1",
+  "require": {
+    "php": ">=5.3.1",
+    "tightenco/collect": "*"
+  }
+}
